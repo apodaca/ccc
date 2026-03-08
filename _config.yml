@@ -1,7 +1,7 @@
 title: Culebra Creek Customs
 description: Custom crafted solutions for small businesses and community organizations.
-baseurl: ""
-url: ""
+baseurl: "/ccc"
+url: "https://apodaca.github.io"
 exclude:
   - ".gemini"
   - ".agents"
